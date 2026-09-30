@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"integracion"},{"l":"modulo_menu_compras"},{"l":"modulo_monedero_operaciones"},{"l":"modulo_usuarios_coordinacion"}];updateSearchResults();
